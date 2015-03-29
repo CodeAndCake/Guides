@@ -79,6 +79,7 @@ If there's a number over the *Pull button* you should pull those *remote* change
 
 - [ ] Explain how to create a repo, or fork one
 - [ ] Pull requests
+- [ ] Check out http://dougbelshaw.com/blog/2015/01/04/github-pages
 
 <!-- ### Pull request
 
