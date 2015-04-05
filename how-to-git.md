@@ -2,28 +2,83 @@
 
 It's not a mild insult.
 
-### What is it then?
+### What is Git then?
 
-It's a **distributed version control system**. It allows teams to work on the same documents (often code) at the same time, and without stepping on each other's toes. 
+It's a **distributed version control system**. :confused: 
 
-You can learn more about Git with this [interactive tutorial](https://try.github.io/).
+That is, a system that lets you save **changes** to a file or set of files over time, so that you can recall specific versions later.
 
-### Why do we need it?
+That is, a powerful way of **backing up** your projects and **collaborating** efficiently with other people.
 
-Because when you realise it's time to back up your files, it may be too late.
+<!-- The *distributed* bit means that you can use Git offline. --> 
 
-### Can we not use DropBox instead? 
+### Why do we need Git?
 
-Yes, however Git is more powerful. It allows you to **collaborate**, by solving *conflicts* for you.
+Because you only realise it's wise to **back up** your project when one of the following happens:
 
-### How does it work?
+* Your computer breaks, gets stolen, is eaten by the cat...
+* You accidentally delete a file. Permanently. For ever.
+* You save a document with the same name of another document. Bye bye previous document.
+* You run out of `cmd-Z`. End of history.
+* Someone else wants/need to work on your project. 
 
-Using Terminal (or any other command-line tool) is very cool, in a Matrix-like way. However it's easier to have a visual interface sometimes. Most of the times. For that, you can use [SourceTree](http://www.sourcetreeapp.com/)
+#### Sure, backing up is important, but can we not use Dropbox for that? 
 
-1. Sign up to [GitHub](https://github.com), [BitBucket](https://bitbucket.org) or [GitLab](https://about.gitlab.com)
+The question is: *how* do you back up? Specifically
+
+1. Do you back up only the latest version of your files/project? Or do you keep separate versions?
+
+* How much do you save? Only the changed files or the complete project?
+
+* How do you name versions? How about `project-ABC-final-v2-signed-off-13-07-2023-the-finalest-really`?
+
+* How do you know what exactly is different in these versions?
+
+<!-- Tools like Dropbox automatically back up files as you save them. Every new save overwrites the previous. -->
+
+Git allows you to 
+
+* **revert** files back to a previous state
+* revert an entire project back to a previous state
+* **compare** changes over time
+* see **who** last modified something that might be causing a problem and **when**
+* recover files if you screw things up
+* **merge** all changes to a project into a **shared repository**
+* solve **conflicts** between file versions
+* try variations (aka **branches**) without affecting the main version
+
+Git is more than a back-up tool. It's a **collaboration** enabler.
+
+<!-- In fact, being a back-up tool is more of a side-effect than the primary goal of Git (or any other version-control system). -->
+
+Using Git, many people can work on the same documents at the same time, without overwriting any part of them.
+
+<!-- Ever found yourself shouting through the room that you are currently working on a certain file and so nobody else should touch it in the meanwhile? -->
+
+<!-- With Git, everybody on the team can work absolutely freely, on any file at any time. Git will allow you to *merge* all the changes into a shared *repository* and solve any *conflicts* for you. There's no question where the latest version of a file or the whole project is: it's on Git. -->
+
+<!-- With Git, there is only **one project**. There's only one version on your disk that you're currently working on. Everything else, all the past versions and variations (aka *branches*), are neatly packed up inside Git. When you need it, you can request any version at any time and you'll have a snapshot of the complete project right at hand. -->
+
+<!-- Being able to restore older versions of a file (or even the whole project) effectively means one thing: **you can't mess up**! -->
+
+<!-- Git is a command-line tool that you - and any other developers on your team - use to save frequent snapshots of your projects. At any given point, it offers the flexibility to roll back changes to previous states, with only a single command. -->
+
+
+### How does Git work?
+
+There are two main ways of working with Git:
+
+1. Using a *Command Line Interface* (CLI). You can learn more about the Git CLI with this [interactive tutorial](https://try.github.io).
+* Using a *Graphic User Interface* (GUI) application.
+
+Using a CLI is very cool, in a Matrix-like way. However it's easier to have a visual interface sometimes. Most of the times. For that, you can use [SourceTree](http://www.sourcetreeapp.com)(it's free).
+
+For the rest of this guide, we'll take the GUI approach and use SourceTree.
+
+<!-- 1. Sign up to [GitHub](https://github.com), [BitBucket](https://bitbucket.org) or [GitLab](https://about.gitlab.com)
 2. Download [SourceTree](http://www.sourcetreeapp.com), it's free!
 3. If you're on a Mac, clean up the global `.gitignore` (add `.DS_Store` so that files that are generated by Mac OSX will not be pushed to the *mothership*)
-4. You're ready to use Git to keep your projects tidy, backed-up and collaborative! 
+4. You're ready to use Git to keep your projects tidy, backed-up and collaborative!  -->
 
 
 ## The Git workflow
@@ -74,12 +129,29 @@ If other people are working at the same project, before you can upload your chan
 If there's a number over the *Pull button* you should pull those *remote* changes into your *Working Copy* (and possibly sort out conflicts before you can push your changes).
 
 
+<!-- 
+
+## Branching
+
+Ever been at a point in a project, when you want to experiment with an idea that may or may not make it into the finished application? While it's true that you can always revert the commit if things don't go according to plan, it's a smarter idea, for a variety of reasons, to instead leverage branching.
+
+remember the part in Back to the Future 2, after Marty and Doc return to 1985 from the future, but find that everything is different? Upon meeting at Doc's, now destroyed lab, Doc draws a diagram, describing how, at some point, "the timeline skewed into this tangent, creating an alternate 1985." This is just like branching!
+
+ -->
+
+<!-- 
+## Pull requests
+
+encouraging developers to fork a project's repository and then use that as their own centralized repository. From there they can send "pull requests" to the main project with their changes and then the project maintainers can review them before deciding whether to include them in their project or not. -->
+
 
 #### TODO
 
 - [ ] Explain how to create a repo, or fork one
 - [ ] Pull requests
 - [ ] Check out http://dougbelshaw.com/blog/2015/01/04/github-pages
+- [ ] Check out [GitHub for beginners](http://readwrite.com/2013/09/30/understanding-github-a-journey-for-beginners-part-1)
+- [ ] Check out [This like a Git](think-like-a-git.ne)
 
 <!-- ### Pull request
 
