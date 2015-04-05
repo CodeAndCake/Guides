@@ -27,11 +27,8 @@ Because you only realise it's wise to **back up** your project when one of the f
 The question is: *how* do you back up? Specifically
 
 1. Do you back up only the latest version of your files/project? Or do you keep separate versions?
-
 * How much do you save? Only the changed files or the complete project?
-
 * How do you name versions? How about `project-ABC-final-v2-signed-off-13-07-2023-the-finalest-really`?
-
 * How do you know what exactly is different in these versions?
 
 <!-- Tools like Dropbox automatically back up files as you save them. Every new save overwrites the previous. -->
@@ -42,16 +39,18 @@ Git allows you to
 * revert an entire project back to a previous state
 * **compare** changes over time
 * see **who** last modified something that might be causing a problem and **when**
-* recover files if you screw things up
+* **recover** files if someone (you?) screws things up
 * **merge** all changes to a project into a **shared repository**
 * solve **conflicts** between file versions
-* try variations (aka **branches**) without affecting the main version
+* **branch** out a project to try something without affecting other versions
+
+Using Git, many people can work on the same documents at the same time, without overwriting any part of them.
 
 Git is more than a back-up tool. It's a **collaboration** enabler.
 
 <!-- In fact, being a back-up tool is more of a side-effect than the primary goal of Git (or any other version-control system). -->
 
-Using Git, many people can work on the same documents at the same time, without overwriting any part of them.
+
 
 <!-- Ever found yourself shouting through the room that you are currently working on a certain file and so nobody else should touch it in the meanwhile? -->
 
@@ -71,7 +70,7 @@ There are two main ways of working with Git:
 1. Using a *Command Line Interface* (CLI). You can learn more about the Git CLI with this [interactive tutorial](https://try.github.io).
 * Using a *Graphic User Interface* (GUI) application.
 
-Using a CLI is very cool, in a Matrix-like way. However it's easier to have a visual interface sometimes. Most of the times. For that, you can use [SourceTree](http://www.sourcetreeapp.com)(it's free).
+Using a CLI is very cool, in a Matrix-like way. However it's easier to have a visual interface sometimes. Most of the times. For that, you can use [SourceTree](http://www.sourcetreeapp.com) (it's free).
 
 For the rest of this guide, we'll take the GUI approach and use SourceTree.
 
