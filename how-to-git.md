@@ -65,7 +65,7 @@ Git is more than a back-up tool. It's a **collaboration** enabler.
 
 ### How does Git work?
 
-There are two main ways of working with Git:
+There are two ways of working with Git:
 
 1. Using a *Command Line Interface* (CLI). You can learn more about the Git CLI with this [interactive tutorial](https://try.github.io).
 * Using a *Graphic User Interface* (GUI) application.
@@ -136,6 +136,10 @@ Ever been at a point in a project, when you want to experiment with an idea that
 
 remember the part in Back to the Future 2, after Marty and Doc return to 1985 from the future, but find that everything is different? Upon meeting at Doc's, now destroyed lab, Doc draws a diagram, describing how, at some point, "the timeline skewed into this tangent, creating an alternate 1985." This is just like branching!
 
+
+http://think-like-a-git.net/sections/experimenting-with-git/branches-as-savepoints.html
+...creating a branch is like saving your game before you battle the boss.
+
  -->
 
 <!-- 
@@ -150,7 +154,7 @@ encouraging developers to fork a project's repository and then use that as their
 - [ ] Pull requests
 - [ ] Check out http://dougbelshaw.com/blog/2015/01/04/github-pages
 - [ ] Check out [GitHub for beginners](http://readwrite.com/2013/09/30/understanding-github-a-journey-for-beginners-part-1)
-- [ ] Check out [This like a Git](think-like-a-git.ne)
+- [ ] Check out [This like a Git](think-like-a-git.net), especially the graph theory bit (a Git commit is a node in a graph, and nodes can point to other nodes that came before them.)
 
 <!-- ### Pull request
 
