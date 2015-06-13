@@ -50,7 +50,7 @@ Git allows you to
 * solve **conflicts** between file versions
 * **branch** out a project to try something without affecting other versions
 
-![](assets/git-graph.svg)
+![](assets/git-graph.png)
 
 #### It's all about collaboration
 
