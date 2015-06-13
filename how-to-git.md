@@ -6,11 +6,13 @@ It's not a mild insult.
 
 It's a **distributed version control system**. :confused: 
 
-That is, a system that lets you save **changes** to a file or set of files over time, so that you can recall specific versions later.
+That is.. a system that lets you save **changes** to a file or set of files **over time**, so that you can recall specific versions later.
 
 That is, a powerful way of **backing up** your projects and **collaborating** efficiently with other people.
 
 <!-- The *distributed* bit means that you can use Git offline. --> 
+
+![](assets/why.jpg)
 
 ### Why do we need Git?
 
@@ -19,10 +21,15 @@ Because you only realise it's wise to **back up** your project when one of the f
 * Your computer breaks, gets stolen, is eaten by the cat...
 * You accidentally delete a file. Permanently. For ever.
 * You save a document with the same name of another document. Bye bye previous document.
-* You run out of `cmd-Z`. End of history.
-* Someone else wants/need to work on your project. 
+* You run out of `cmd-Z`. End of history. 
+
+[![](assets/computer-disaster.png "This is what Google thinks a computer disaster looks like..")](https://www.google.co.uk/search?q=computer+disaster&tbs=rimg:CV-syX0KTzzcIjjNKti08WxZLF9WjzikI5aZWTBc9lk7KiMPMp3kFf5Ldertu9I8AnL6fibduK6bc7rOsA5_1AxcsayoSCc0q2LTxbFksETtf8ZTjz9AsKhIJX1aPOKQjlpkRnogQZWgsMdMqEglZMFz2WTsqIxFvSSGenHQaUCoSCQ8yneQV_1kt1EUeEqZvHddbsKhIJ6u270jwCcvoRgedtflVyS9gqEgl-Jt24rptzuhFZeHQ4z7E9YioSCc6wDn8DFyxrEZW-BdJVbNfu,isz:l&tbm=isch)
 
 #### Sure, backing up is important, but can we not use Dropbox for that? 
+
+Tools like Dropbox automatically back up files as you save them. Every new save overwrites the previous. 
+
+This system could be ok if you work on your own, but it breaks apart if you want/need to work on a project with someone else (which is more often than you think).
 
 The question is: *how* do you back up? Specifically
 
@@ -31,7 +38,6 @@ The question is: *how* do you back up? Specifically
 * How do you name versions? How about `project-ABC-final-v2-signed-off-13-07-2023-the-finalest-really`?
 * How do you know what exactly is different in these versions?
 
-<!-- Tools like Dropbox automatically back up files as you save them. Every new save overwrites the previous. -->
 
 Git allows you to 
 
@@ -44,9 +50,15 @@ Git allows you to
 * solve **conflicts** between file versions
 * **branch** out a project to try something without affecting other versions
 
+![](assets/git-graph.svg)
+
+#### It's all about collaboration
+
 Using Git, many people can work on the same documents at the same time, without overwriting any part of them.
 
 Git is more than a back-up tool. It's a **collaboration** enabler.
+
+![](assets/git-graphic-giraffe.png)
 
 <!-- In fact, being a back-up tool is more of a side-effect than the primary goal of Git (or any other version-control system). -->
 
@@ -67,12 +79,17 @@ Git is more than a back-up tool. It's a **collaboration** enabler.
 
 There are two ways of working with Git:
 
-1. Using a *Command Line Interface* (CLI). You can learn more about the Git CLI with this [interactive tutorial](https://try.github.io).
+1. Using a *Command Line Interface* (CLI). You can learn more about the Git CLI with this [interactive tutorial](https://try.github.io).  
+
+	![](http://i.imgur.com/Gv6qlyH.gif)  
+	<!---->
 * Using a *Graphic User Interface* (GUI) application.
 
-Using a CLI is very cool, in a Matrix-like way. However it's easier to have a visual interface sometimes. Most of the times. For that, you can use [SourceTree](http://www.sourcetreeapp.com) (it's free).
+Using a CLI is very cool, in a Matrix-like way. However it's easier to have a visual interface sometimes. Most of the times. For that, you can use the [SourceTree](http://www.sourcetreeapp.com) app (it's free).
 
 For the rest of this guide, we'll take the GUI approach and use SourceTree.
+
+[![](assets/logoSourceTree.png)](http://www.sourcetreeapp.com)
 
 <!-- 1. Sign up to [GitHub](https://github.com), [BitBucket](https://bitbucket.org) or [GitLab](https://about.gitlab.com)
 2. Download [SourceTree](http://www.sourcetreeapp.com), it's free!
