@@ -6,7 +6,7 @@ If you have any suggestions, `fork` this repository, add your bits and then send
 
 We :heart_eyes: feedback!
 
-> Unless otherwise stated, all our suggestions are **free** (as in free beer).
+> Unless otherwise stated, all our recommendations below are **free** (as in free beer).
 
 ## Code
 
@@ -45,7 +45,7 @@ The [building blocks of programming](https://github.com/matteomenapace/apps-from
 
 If 9 minutes is too much for you, try [JavaScript for cats](http://jsforcats.com/).
 
-![](assets/js-for-cats.jpg)
+[![](assets/js-for-cats.jpg)](http://jsforcats.com/)
 
 By the way, [what is code?](http://www.bloomberg.com/graphics/2015-paul-ford-what-is-code/)
 
@@ -89,7 +89,7 @@ We also recommend:
 
 ## Inspiration
 
-Keep a **sketchbook** / blog / whatever works for you, but **don't let your ideas slip away**. 
+:notebook: Keep a **sketchbook** / blog / whatever works for you, but **don't let your ideas slip away**. :bulb: 
 
 <!--Inspiration can be anywhere, so keep looking out for it.-->
 
