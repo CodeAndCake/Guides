@@ -2,11 +2,11 @@ Spend the summer experimenting with [code](#code) and [design](#design), and act
 
 <!--[![](https://www.headspace.com/bundles/headspacesite/images/v2/how-it-works/how-it-works.svg)](https://www.headspace.com)-->
 
-If you have any suggestions, :fork_and_knife: this repository, add your bits and then send us a `pull request`.
+If you have any suggestions: :cactus: this repository, add your bits and then send us a `pull request`.
 
 We :heart_eyes: feedback!
 
-> Unless otherwise stated, all our recommendations below are **free** (as in free beer).
+Unless otherwise stated, all our recommendations below are **free** (as in free beer).
 
 ## Code
 
