@@ -2,7 +2,7 @@ Spend the summer experimenting with [code](#code) and [design](#design), and act
 
 <!--[![](https://www.headspace.com/bundles/headspacesite/images/v2/how-it-works/how-it-works.svg)](https://www.headspace.com)-->
 
-If you have any suggestions, `fork` this repository, add your bits and then send us a `pull request` :cactus:
+If you have any suggestions, :fork_and_knife: this repository, add your bits and then send us a `pull request`.
 
 We :heart_eyes: feedback!
 
@@ -91,7 +91,7 @@ We also recommend:
 
 ## Inspiration
 
-Keep a **sketchbook** / blog / whatever works for you, but **don't let your ideas slip away**. :bulb: 
+Keep a **sketchbook** / blog / whatever works for you, but **don't let your :bulb: slip away**.  
 
 <!--Inspiration can be anywhere, so keep looking out for it.-->
 
