@@ -1,6 +1,6 @@
 Spend the summer experimenting with [code](#code) and [design](#design), and actively seek [inspiration](#inspiration).
 
-![](https://www.headspace.com/bundles/headspacesite/images/v2/how-it-works/how-it-works.svg) 
+[![](https://www.headspace.com/bundles/headspacesite/images/v2/how-it-works/how-it-works.svg)](https://www.headspace.com)
 
 If you have any suggestions, `fork` this repository, add your bits and then send us a `pull request` :cactus:
 
@@ -45,7 +45,7 @@ The [building blocks of programming](https://github.com/matteomenapace/apps-from
 
 If 9 minutes is too much for you, try [JavaScript for cats](http://jsforcats.com/).
 
-![](http://jsforcats.com/images/customers5.jpg)
+![](assets/js-for-cats.jpg)
 
 By the way, [what is code?](http://www.bloomberg.com/graphics/2015-paul-ford-what-is-code/)
 
@@ -67,7 +67,7 @@ We like [Hack Design](https://hackdesign.org/lessons), in particular:
 * [User experience](https://hackdesign.org/lessons#user-experience)
 * [User interface](https://hackdesign.org/lessons#user-interface)
 
-![](http://www.frankchimero.com/writing/the-webs-grain/box2.gif)
+<!--![](http://www.frankchimero.com/writing/the-webs-grain/box2.gif)-->
 
 
 We also recommend:
@@ -77,6 +77,7 @@ We also recommend:
 * [Pttrns](http://pttrns.com/)
 * [User interface design patterns](http://ui-patterns.com/)
 * [PatternTap](http://zurb.com/patterntap/)
+* [User flow patters](http://userflowpatterns.com/)
 * [Brief history of UX](http://blog.invisionapp.com/a-brief-history-of-user-experience)
 * [The Web ahead](http://thewebahead.net/)
 * [Interviewing humans](https://medium.com/research-things/interviewing-humans-fa198f809c40)
@@ -92,7 +93,7 @@ Keep a **sketchbook** / blog / whatever works for you, but **don't let your idea
 
 <!--Inspiration can be anywhere, so keep looking out for it.-->
 
-![](https://www.headspace.com/bundles/headspacesite/images/v2/science/creativity/creativity-ideas.svg)
+[![](https://www.headspace.com/bundles/headspacesite/images/v2/science/creativity/creativity-ideas.svg)](https://www.headspace.com)
 
 ### Briefs
 
@@ -111,7 +112,7 @@ If you're stuck for ideas, here are a few briefs that you can tackle:
 	Design a sequence of interfaces that are informative, legible and easier to navigate when buying a train ticket.
 
 
-![](http://www.frankchimero.com/writing/the-webs-grain/graph.gif)
+![](assets/web-graph.gif)
 
 
 
