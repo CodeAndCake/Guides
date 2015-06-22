@@ -1,6 +1,6 @@
 Spend the summer experimenting with [code](#code) and [design](#design), and actively seek [inspiration](#inspiration).
 
-[![](https://www.headspace.com/bundles/headspacesite/images/v2/how-it-works/how-it-works.svg)](https://www.headspace.com)
+<!--[![](https://www.headspace.com/bundles/headspacesite/images/v2/how-it-works/how-it-works.svg)](https://www.headspace.com)-->
 
 If you have any suggestions, `fork` this repository, add your bits and then send us a `pull request` :cactus:
 
@@ -20,6 +20,8 @@ To practice your Web-making skills and learn some new tricks, [*Codecademy*](htt
 *   [Web Projects](http://www.codecademy.com/tracks/projects)
 *   [YouTube API](http://www.codecademy.com/tracks/youtube)
 *   [Command Line](http://www.codecademy.com/learn/learn-the-command-line)
+
+[![](http://i.giphy.com/eex2UXQxxMSC4.gif)](http://gph.is/1wQJ3tu)
 
 We also recommend:
 
@@ -57,7 +59,6 @@ By the way, [what is code?](http://www.bloomberg.com/graphics/2015-paul-ford-wha
 * [The future of programming](https://vimeo.com/71278954), a talk by Bret Victor
 * [Inventing on principle](http://vimeo.com/36579366), another talk by Bret Victor
 
-
 ## Design
 
 We like [Hack Design](https://hackdesign.org/lessons), in particular:
@@ -66,8 +67,6 @@ We like [Hack Design](https://hackdesign.org/lessons), in particular:
 * [Typography](https://hackdesign.org/lessons#typography)
 * [User experience](https://hackdesign.org/lessons#user-experience)
 * [User interface](https://hackdesign.org/lessons#user-interface)
-
-<!--![](http://www.frankchimero.com/writing/the-webs-grain/box2.gif)-->
 
 
 We also recommend:
@@ -87,13 +86,16 @@ We also recommend:
 * [The unexotic underclass](http://miter.mit.edu/the-unexotic-underclass)
 * [The Web's grain](http://www.frankchimero.com/writing/the-webs-grain/)
 
+
+[![](http://i.giphy.com/NBLJv0ZGvANig.gif)](http://gph.is/1eJ5gMt)
+
 ## Inspiration
 
-:notebook: Keep a **sketchbook** / blog / whatever works for you, but **don't let your ideas slip away**. :bulb: 
+Keep a **sketchbook** / blog / whatever works for you, but **don't let your ideas slip away**. :bulb: 
 
 <!--Inspiration can be anywhere, so keep looking out for it.-->
 
-[![](https://www.headspace.com/bundles/headspacesite/images/v2/science/creativity/creativity-ideas.svg)](https://www.headspace.com)
+<!--[![](https://www.headspace.com/bundles/headspacesite/images/v2/science/creativity/creativity-ideas.svg)](https://www.headspace.com)-->
 
 ### Briefs
 
