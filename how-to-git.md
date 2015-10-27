@@ -122,7 +122,7 @@ Whenever you commit a bunch of changes to your files, you will need to add a **c
 
 ### 3. Push
 
-After you're commited some changes, a number icon will pop up over the *Push button*. 
+After you've commited some changes, a number icon will pop up over the *Push button*. 
 
 This means that your commits are ready to be uploaded to the mothership (aka *origin repository*).
 
