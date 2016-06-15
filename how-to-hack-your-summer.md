@@ -107,7 +107,7 @@ If you're stuck for ideas, here are a few briefs that you can tackle:
 
 2. The year is 2035 and the Tate-Google Gallery has commissioned you to create a **Web-based retrospective exhibition** looking at *the defining moments of life in the second decade of the 21st century*.
 
-3. It is the winter of 2014 and Scotland has declared independence from the UK. The government fears Wales and Northern Ireland will follow suit and has asked you to **redesign the Union flag** to represent England as a single sovereign state. 
+3. It is the winter of 2016 and Scotland has declared independence from post-Brexit UK. The government fears Wales and Northern Ireland will follow suit and has asked you to **redesign the Union flag** to represent England as a single sovereign state. 
 
 4. We’re **catching a train**, and we have only a short time to buy a ticket at the station. Do we join the massive queue at the ticket office or try the ticket machine? We tackle the machine. Instant confusion: when is *Off Peak*, *Anytime*? Now there’s a queue behind you..   
   
